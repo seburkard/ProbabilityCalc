@@ -1,5 +1,5 @@
 # ProbabilityCalc
-Tool to solve a generalized version of the coupon collector problem. The problem is the following: Each box of cereal may contain one coupon. Now the question is: How many boxes do you need on average to get a given amount of a set of coupons if you know the rarity of each type of coupon. Example: If you want 2 coupons with odds 1/5, 1 of odds 1/3 and 1 of odds 1/20, you will on average need to buy around 25.27 boxes.
+Tool to solve a generalized version of the coupon collector problem. The problem is the following: Each box of cereal may contain one coupon. Now the question is: How many boxes do you need on average to get a given amount of a set of coupons if you know the rarity of each type of coupon. Example: If you want 2 coupons with odds 1/5, 1 of odds 1/3 and 1 of odds 1/20, you will on average need to open around 25.27 boxes.
 
 It implements two algorithms:
 
