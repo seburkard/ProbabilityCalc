@@ -4,4 +4,5 @@ Tool to solve a generalized version of the coupon collector problem. The problem
 It implements two algorithms:
 
 1. Simple simulation that draws boxes till it completes the coupon set.
-2. Markov-Chain approach that calculates probabilities between two states and then calculates the average from that. They are useful in different scenarios as simulation scales better with many different items and markov chain scales better with very low odds.
+2. Markov-Chain approach that calculates probabilities between two states and then calculates the average from that. 
+They are useful in different scenarios as simulation scales better with many different items and markov chain scales better with very low odds.
